@@ -26,3 +26,4 @@
  console.log(name2+" "+height+" "+isHeRetired+" "+yearsOfRetiring+" "+numberofRetiring)
 
 
+console.log(typeof age)
